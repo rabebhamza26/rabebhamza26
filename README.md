@@ -5,7 +5,7 @@ Passionnée par le développement web, j’aime concevoir et développer des app
 
 🛠️ Technologies et outils
 
-Langages : Java ☕, JavaScript 🌐, TypeScript, PHP 💻, SQL 🗄️
+Langages : Java ☕, JavaScript 🌐, TypeScript, PHP 💻, SQL 🗄️ ,HTML,CSS
 
 Frameworks & Librairies : Angular ⚡, Spring Boot 🌱, Node.js 🚀
 
@@ -32,6 +32,7 @@ Projet 1 : Développement d’un site vitrine pour une entreprise industrielle (
 Projet 2 : Application de gestion des réservations de salles (Angular, Spring Boot, MySQL)
 
 Projet 3 : Développement d’un site web d'agence de voyage  (Angular, Node js )
+Projet 4 : Application de gestion commerciale en Java (Java, Swing)
 
 📫 Me contacter
 
