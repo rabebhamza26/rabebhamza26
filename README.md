@@ -1,49 +1,45 @@
 👋 Bienvenue sur mon profil GitHub
 
-Bonjour ! Je suis Rabeb Hamza, étudiante en deuxième année du cycle ingénieur à l’Université Polytech Monastir 🎓.
-Passionnée par le développement web, j’aime concevoir et développer des applications modernes et performantes.
+🙋‍♀️ À propos de moi
 
-🛠️ Technologies et outils
+Je suis Rabeb Hamza, étudiante en 2ème année cycle ingénieur en Génie Informatique à l’Université Polytech Monastir 🎓.
+Passionnée par le développement web 🌐, j’aime concevoir et développer des applications modernes, performantes et intuitives.
 
-Langages : Java ☕, JavaScript 🌐, TypeScript, PHP 💻, SQL 🗄️ ,HTML,CSS
+🛠️ Compétences & Technologies
 
-Frameworks & Librairies : Angular ⚡, Spring Boot 🌱, Node.js 🚀
+💻 Langages
 
-Bases de données : MySQL🔥
+Java ☕ | JavaScript 🌐 | TypeScript ⚡ | PHP 💻 | SQL 🗄️ | HTML5 | CSS3 🎨
 
-Outils : Git 🦸, Docker 🐳, VSCode 💻
+📦 Frameworks & Librairies
 
-🚀 À propos de moi
+Angular ⚡ | Spring Boot 🌱 | Node.js 🚀
 
-👩‍🎓 Formation : Étudiante en Génie Informatique à l’Université Polytech Monastir
+🗄️ Bases de données
 
-🌍 Localisation : Tunisie 🇹🇳
+MySQL 🔥
 
-📚 Intérêts : Développement web, Data & IA 🤖
+⚙️ Outils & Environnements
 
-💡 Qualités : Curieuse, rigoureuse et motivée à apprendre et innover en continu
+Git 🦸 | Docker 🐳 | VS Code 💻
 
-📂 Projets
+🚀 Projets Réalisés
 
-Voici quelques exemples de mes réalisations :
+🔹 Projet 1 : Site vitrine pour une entreprise industrielle (HTML, CSS, PHP, MySQL)
+🔹 Projet 2 : Application de gestion des réservations de salles (Angular, Spring Boot, MySQL)
+🔹 Projet 3 : Site web d’agence de voyage (Angular, Node.js)
+🔹 Projet 4 : Application de gestion commerciale (Java, Swing)
 
-Projet 1 : Développement d’un site vitrine pour une entreprise industrielle (HTML, CSS, PHP, MySQL)
+🎯 Objectifs
 
-Projet 2 : Application de gestion des réservations de salles (Angular, Spring Boot, MySQL)
-
-Projet 3 : Développement d’un site web d'agence de voyage  (Angular, Node js )
-Projet 4 : Application de gestion commerciale en Java (Java, Swing)
+✨ Mettre mes compétences au service de projets concrets
+🤝 Collaborer avec des équipes motivées et innovantes
+📚 Développer mes connaissances en développement web et nouvelles technologies
 
 📫 Me contacter
 
 📧 E-mail : rabebhamza26@gmail.com
 
-💼 LinkedIn : https://www.linkedin.com/in/rabeb-hamza
+💼 LinkedIn : linkedin.com/in/rabeb-hamza
 
-🎯 Objectifs
-
-🌟 Mettre mes compétences au service de projets concrets
-
-🤝 Collaborer avec des équipes motivées et innovantes
-
-📚 Développer mes connaissances en développement web et nouvelles technologies
+⚡ "Apprendre, innover et créer chaque jour un peu plus."
