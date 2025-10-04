@@ -2,25 +2,21 @@
 
 🙋‍♀️ À propos de moi
 
-Je suis Rabeb Hamza, étudiante en 2ème année cycle ingénieur en Génie Informatique à l’Université Polytech Monastir 🎓.
+Je suis Rabeb Hamza, étudiante en 3ème année cycle ingénieur en Génie Logiciel  à l’Université Polytech Monastir 🎓.
 Passionnée par le développement web 🌐, j’aime concevoir et développer des applications modernes, performantes et intuitives.
 
 🛠️ Compétences & Technologies
 
 💻 Langages
-
 Java ☕ | JavaScript 🌐 | TypeScript ⚡ | PHP 💻 | SQL 🗄️ | HTML5 | CSS3 🎨
 
 📦 Frameworks & Librairies
-
 Angular ⚡ | Spring Boot 🌱 | Node.js 🚀
 
 🗄️ Bases de données
-
 MySQL 🔥
 
 ⚙️ Outils & Environnements
-
 Git 🦸 | Docker 🐳 | VS Code 💻
 
 🚀 Projets Réalisés
