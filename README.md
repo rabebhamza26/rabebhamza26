@@ -36,6 +36,6 @@ Git 🦸 | Docker 🐳 | VS Code 💻
 
 📧 E-mail : rabebhamza26@gmail.com
 
-💼 LinkedIn : linkedin.com/in/rabeb-hamza
+💼 LinkedIn :https://www.linkedin.com/in/rabeb-hamza
 
 ⚡ "Apprendre, innover et créer chaque jour un peu plus."
