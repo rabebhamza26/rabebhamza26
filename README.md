@@ -8,22 +8,29 @@ Passionnée par le développement web 🌐, j’aime concevoir et développer de
 🛠️ Compétences & Technologies
 
 💻 Langages
+
 Java ☕ | JavaScript 🌐 | TypeScript ⚡ | PHP 💻 | SQL 🗄️ | HTML5 | CSS3 🎨
 
 📦 Frameworks & Librairies
+
 Angular ⚡ | Spring Boot 🌱 | Node.js 🚀
 
 🗄️ Bases de données
-MySQL 🔥
+
+MySQL 🔥 | MongoDB 🌱
 
 ⚙️ Outils & Environnements
+
 Git 🦸 | Docker 🐳 | VS Code 💻
 
 🚀 Projets Réalisés
 
 🔹 Projet 1 : Site vitrine pour une entreprise industrielle (HTML, CSS, PHP, MySQL)
+
 🔹 Projet 2 : Application de gestion des réservations de salles (Angular, Spring Boot, MySQL)
+
 🔹 Projet 3 : Site web d’agence de voyage (Angular, Node.js)
+
 🔹 Projet 4 : Application de gestion commerciale (Java, Swing)
 
 🎯 Objectifs
