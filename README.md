@@ -128,10 +128,15 @@ HTML5 | CSS3 | Responsive Design | Figma
 - 🇬🇧 **Anglais**
 
 
+
 🎯 Objectifs 
+
 ✨ Mettre mes compétences au service de projets concrets 
+
 🤝 Collaborer avec des équipes motivées et innovantes
+
 📚 Développer mes connaissances en développement web et nouvelles technologies
+
 
 
 ⚡ "Apprendre, innover et créer chaque jour un peu plus."
