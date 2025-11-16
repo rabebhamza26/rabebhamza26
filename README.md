@@ -10,12 +10,15 @@ Future Software Engineer
 
 
 🎓 Education
+
 🎓 **Cycle Ingénieur – Génie Logiciel**  
 École Supérieure Polytechnique Privée de Monastir  
 📅 *2023 – en cours*
+
 🎓 **Licence – Télécommunications**  
 Institut Supérieur d’Informatique et des Technologies de Communication  
 📅 *2019 – 2023*
+
 🎓 ** Baccalauréat en Informatique**  
  Lycée Sayada
 📅 *2019 – 2018*
@@ -62,13 +65,18 @@ Institut Supérieur d’Informatique et des Technologies de Communication
 - Maintenance informatique et découverte d’un environnement hospitalier digitalisé.
 
 🏆 Certifications
+
 📜  Introduction à GitHub - MicrosoftLearn 
+
 🖥️ Introduction to IOT - Cisco Networking Academy
+
 🗄️ Cloud Computing Fundamentals - IBM
+
 🎮  Certificat HTML & CSS - Certiport
 
 
 🛠️ Compétences Techniques
+
 ### 💻 Langages  
 Java | JavaScript | TypeScript | Python | PHP | SQL | C
 
@@ -109,9 +117,11 @@ HTML5 | CSS3 | Responsive Design | Figma
 
 
 ## 🗣️ Langues  
+
 - 🇹🇳 **Arabe** 
 - 🇫🇷 **Français**  
 - 🇬🇧 **Anglais**
+
 
 🎯 Objectifs 
 ✨ Mettre mes compétences au service de projets concrets 
