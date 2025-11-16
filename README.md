@@ -4,8 +4,11 @@
 Future Software Engineer 
 
 📍 Monastir, Tunisia  
+
 📧 rabebhamza26@gmail.com  
+
 💼 LinkedIn :https://www.linkedin.com/in/rabeb-hamza
+
 🔗 GitHub : https://github.com/rabebhamza26
 
 
@@ -19,7 +22,7 @@ Future Software Engineer
 Institut Supérieur d’Informatique et des Technologies de Communication  
 📅 *2019 – 2023*
 
-🎓 ** Baccalauréat en Informatique**  
+🎓 Baccalauréat en Informatique
  Lycée Sayada
 📅 *2019 – 2018*
 
@@ -63,6 +66,8 @@ Institut Supérieur d’Informatique et des Technologies de Communication
 📍 Monastir  
 📅 Août 2021 – Septembre 2021  
 - Maintenance informatique et découverte d’un environnement hospitalier digitalisé.
+
+  
 
 🏆 Certifications
 
